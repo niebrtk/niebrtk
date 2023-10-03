@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Bartek, 
+into aviation, trains and public transport
+VATSIM ATC
 
 <!--
 **niebrtk/niebrtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
